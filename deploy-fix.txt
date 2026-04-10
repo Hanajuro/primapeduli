@@ -1,0 +1,2 @@
+Fixing case sensitivity for Vercel deployment.
+Timestamp: 2026-04-10
